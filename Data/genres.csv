@@ -1,0 +1,11 @@
+GenreID,GenreName,Description
+1,Aksiyon,Yüksek enerjili ve çok sayıda hareket sahnesi içerir.
+2,Komedi,"Hafif ve eğlenceli, mizahi içerikli filmler."
+3,Dram,Duygusal yoğunluk ve karakter odaklı hikayeler.
+4,Korku,Korkutucu ve gerilim dolu sahneler içerir.
+5,Bilim Kurgu,Geleceğe dair teknoloji ve uzay temaları.
+6,Romantik,Aşk ve ilişkiler üzerine odaklanır.
+7,Gerilim,Heyecan verici ve gerilim dolu olaylar.
+8,Belgesel,Gerçek olayları ve bilgileri anlatan yapımlar.
+9,Animasyon,Çizgi film ya da bilgisayar üretimi animasyonlar.
+10,Fantastik,"Büyü, doğaüstü ve hayali dünyalar içerir."

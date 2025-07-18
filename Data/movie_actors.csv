@@ -1,0 +1,1501 @@
+MovieID,ActorID,Role,IsMainCharacter
+1,197,Kahramanın arkadaşı,1
+1,11,Bilim insanı,1
+1,57,Asker komutan,0
+1,424,Müdür,0
+1,7,Komik yan karakter,0
+2,74,Başrol oyuncusu,1
+2,481,Polis dedektif,1
+2,322,Sekreter,0
+2,308,Otel görevlisi,0
+2,7,Sosyal medya fenomeni,0
+3,437,Zengin iş insanı,1
+3,363,Yargıç,1
+3,44,Kahveci,0
+3,104,Sosyal medya fenomeni,0
+3,72,Gazeteci,0
+4,170,Sanatçı,1
+4,246,Terapist,1
+4,80,Sokak satıcısı,0
+4,125,Sekreter,0
+4,29,Uzay kaşifi,0
+5,423,Polis dedektif,1
+5,23,Polis memuru,0
+5,53,Sosyal medya fenomeni,0
+5,279,Yazar,0
+5,152,Gizemli yabancı,0
+6,468,Suçlu lider,1
+6,115,Gizemli yabancı,0
+6,13,İş insanı,0
+6,117,Sokak satıcısı,0
+6,219,Şehirli genç,0
+7,472,Polis dedektif,1
+7,451,Barmen,0
+7,351,Gazeteci,0
+7,197,Uzay kaşifi,0
+7,352,Asker komutan,0
+8,490,Yabancı ajan,1
+8,145,Uzay kaşifi,0
+8,183,İş insanı,0
+8,40,Komik yan karakter,0
+8,316,Kötü karakter,0
+9,92,Dedektif yardımcısı,1
+9,220,Taksi şoförü,0
+9,272,Yazar,0
+9,172,Gizemli yabancı,0
+9,308,Taksi şoförü,0
+10,320,Polis dedektif,1
+10,419,Terapist,1
+10,147,Barmen,0
+10,179,Taksi şoförü,0
+10,449,İş insanı,0
+11,416,Başrol oyuncusu,1
+11,465,Bilim insanı,1
+11,365,Müdür,0
+11,409,Sokak satıcısı,0
+11,40,Gizemli yabancı,0
+12,76,Zengin iş insanı,1
+12,200,Aşk ilgisi,1
+12,229,Uzay kaşifi,0
+12,370,Kütüphane görevlisi,0
+12,408,Yazar,0
+13,75,Suçlu lider,1
+13,47,Gizemli kahin,1
+13,166,Müzisyen,0
+13,66,Barmen,0
+13,94,Yazar,0
+14,356,Yabancı ajan,1
+14,499,Bilim insanı,1
+14,212,Sporcu,0
+14,309,Sokak satıcısı,0
+14,407,Asker komutan,0
+15,215,Zengin iş insanı,1
+15,282,Sanatçı,1
+15,255,Sekreter,0
+15,276,Sosyal medya fenomeni,0
+15,274,Asker komutan,0
+16,43,Yargıç,1
+16,298,İsyancı lider,1
+16,367,Bahçıvan,0
+16,216,Komik yan karakter,0
+16,270,Asker komutan,0
+17,2,Sanatçı,1
+17,105,Zengin iş insanı,1
+17,436,Gizemli yabancı,0
+17,9,Uzay kaşifi,0
+17,186,Kötü karakter,0
+18,185,Bilim insanı,1
+18,435,Katil şüphelisi,1
+18,444,Kahveci,0
+18,399,Gizemli yabancı,0
+18,420,Sosyal medya fenomeni,0
+19,125,Bilim insanı,1
+19,108,Polis dedektif,1
+19,424,Bahçıvan,0
+19,115,Bahçıvan,0
+19,29,Gizemli yabancı,0
+20,376,Gizemli kahin,1
+20,14,Kahramanın arkadaşı,1
+20,357,Bahçıvan,0
+20,495,Uzay kaşifi,0
+20,218,Taksi şoförü,0
+21,245,Başrol oyuncusu,1
+21,429,Gizemli yabancı,0
+21,305,İş insanı,0
+21,446,Gizemli yabancı,0
+21,81,Komik yan karakter,0
+22,40,Kurtarıcı,1
+22,7,Gizemli yabancı,0
+22,292,Müdür,0
+22,426,Gazeteci,0
+22,417,Barmen,0
+23,384,Zengin iş insanı,1
+23,271,Yazar,0
+23,358,Otel görevlisi,0
+23,486,Müzisyen,0
+23,154,Kahveci,0
+24,147,Kahramanın arkadaşı,1
+24,57,Çocuk,0
+24,80,Müdür,0
+24,31,Gazeteci,0
+24,452,Polis memuru,0
+25,6,Asker kahraman,1
+25,203,Sekreter,0
+25,427,Bahçıvan,0
+25,217,Sosyal medya fenomeni,0
+25,349,Çiftçi,0
+26,364,Terapist,1
+26,117,Aşk ilgisi,1
+26,217,Polis memuru,0
+26,477,Eski dost,0
+26,81,Gizemli yabancı,0
+27,206,Dedektif yardımcısı,1
+27,317,Sosyal medya fenomeni,0
+27,29,Otel görevlisi,0
+27,113,Sekreter,0
+27,201,Çocuk,0
+28,419,Suçlu lider,1
+28,355,Sosyal medya fenomeni,0
+28,240,Eski dost,0
+28,245,Gazeteci,0
+28,161,Kötü karakter,0
+29,332,Polis dedektif,1
+29,218,Aşk ilgisi,1
+29,100,İş insanı,0
+29,139,Çocuk,0
+29,56,Müdür,0
+30,15,Polis dedektif,1
+30,123,Aşk ilgisi,1
+30,145,Mahkeme savcısı,0
+30,84,Çocuk,0
+30,278,Yardımcı oyuncu,0
+31,97,Kahramanın arkadaşı,1
+31,283,İsyancı lider,1
+31,104,Çiftçi,0
+31,327,Komik yan karakter,0
+31,476,Kütüphane görevlisi,0
+32,289,Yabancı ajan,1
+32,405,Komik yan karakter,0
+32,248,Şehirli genç,0
+32,24,Yardımcı oyuncu,0
+32,25,İş insanı,0
+33,491,Suçlu lider,1
+33,204,Gizemli kahin,1
+33,257,Gizemli yabancı,0
+33,100,Bahçıvan,0
+33,162,Taksi şoförü,0
+34,170,Polis dedektif,1
+34,209,Polis memuru,0
+34,460,Sporcu,0
+34,380,Müdür,0
+34,258,Gizemli yabancı,0
+35,301,Kahramanın arkadaşı,1
+35,408,Şehirli genç,0
+35,196,Gazeteci,0
+35,245,Gizemli yabancı,0
+35,445,Taksi şoförü,0
+36,41,İsyancı lider,1
+36,454,Prens/prenses,1
+36,321,Sporcu,0
+36,48,Taksi şoförü,0
+36,488,Sokak satıcısı,0
+37,394,Gazeteci,1
+37,368,Otel görevlisi,0
+37,83,Çocuk,0
+37,494,Sokak satıcısı,0
+37,257,Polis memuru,0
+38,230,Gizemli kahin,1
+38,403,Doktor,1
+38,68,Yazar,0
+38,174,Kötü karakter,0
+38,149,Bahçıvan,0
+39,123,Bilim insanı,1
+39,107,Yargıç,1
+39,313,Sokak satıcısı,0
+39,311,Barmen,0
+39,39,Uzay kaşifi,0
+40,74,Aşk ilgisi,1
+40,393,Barmen,0
+40,446,Uzay kaşifi,0
+40,159,Kahveci,0
+40,281,Müzisyen,0
+41,479,Yargıç,1
+41,152,İş insanı,0
+41,83,İş insanı,0
+41,35,Komik yan karakter,0
+41,144,Komik yan karakter,0
+42,364,Terapist,1
+42,396,Müdür,0
+42,236,Kahveci,0
+42,133,Sokak satıcısı,0
+42,243,Gizemli yabancı,0
+43,498,Katil şüphelisi,1
+43,292,Eski dost,0
+43,250,Yazar,0
+43,21,Çocuk,0
+43,187,Taksi şoförü,0
+44,226,Yabancı ajan,1
+44,188,İş insanı,0
+44,263,Komik yan karakter,0
+44,433,Taksi şoförü,0
+44,320,Yazar,0
+45,135,Doktor,1
+45,450,Kahramanın arkadaşı,1
+45,449,Otel görevlisi,0
+45,350,Sporcu,0
+45,22,Asker komutan,0
+46,80,Dedektif yardımcısı,1
+46,437,Kütüphane görevlisi,0
+46,54,Eski dost,0
+46,149,Komik yan karakter,0
+46,193,Asker komutan,0
+47,448,Asker kahraman,1
+47,237,Asker kahraman,1
+47,343,Sokak satıcısı,0
+47,48,Sekreter,0
+47,179,Sosyal medya fenomeni,0
+48,56,Suçlu lider,1
+48,44,Kurtarıcı,1
+48,93,Mahkeme savcısı,0
+48,375,Eski dost,0
+48,470,Müzisyen,0
+49,163,Zengin iş insanı,1
+49,176,Uzay kaşifi,0
+49,310,Çiftçi,0
+49,249,Kahveci,0
+49,109,Kötü karakter,0
+50,486,Yabancı ajan,1
+50,241,Kütüphane görevlisi,0
+50,75,Kötü karakter,0
+50,328,Çocuk,0
+50,110,Müdür,0
+51,32,Kurtarıcı,1
+51,480,Zengin iş insanı,1
+51,414,Mahkeme savcısı,0
+51,186,Kötü karakter,0
+51,405,Mahkeme savcısı,0
+52,488,Terapist,1
+52,389,Sokak satıcısı,0
+52,351,Gazeteci,0
+52,217,Komik yan karakter,0
+52,139,Gizemli yabancı,0
+53,141,Asker kahraman,1
+53,208,Yazar,0
+53,42,Polis memuru,0
+53,153,Mahkeme savcısı,0
+53,448,Taksi şoförü,0
+54,95,Kurtarıcı,1
+54,426,Yabancı ajan,1
+54,28,Müdür,0
+54,48,Şehirli genç,0
+54,459,Gazeteci,0
+55,179,Sanatçı,1
+55,483,Bahçıvan,0
+55,215,Sporcu,0
+55,247,Gazeteci,0
+55,244,Bahçıvan,0
+56,182,Başrol oyuncusu,1
+56,468,Sanatçı,1
+56,355,Sporcu,0
+56,293,Çocuk,0
+56,200,Mahkeme savcısı,0
+57,371,Yabancı ajan,1
+57,342,Taksi şoförü,0
+57,297,Sosyal medya fenomeni,0
+57,316,Otel görevlisi,0
+57,75,Otel görevlisi,0
+58,8,Bilim insanı,1
+58,78,Zengin iş insanı,1
+58,460,Müzisyen,0
+58,235,Uzay kaşifi,0
+58,479,Sporcu,0
+59,135,Bilim insanı,1
+59,267,Asker kahraman,1
+59,370,Sokak satıcısı,0
+59,2,Kütüphane görevlisi,0
+59,231,Uzay kaşifi,0
+60,112,Sanatçı,1
+60,382,Müdür,0
+60,97,Gazeteci,0
+60,216,Çocuk,0
+60,357,Eski dost,0
+61,179,Yargıç,1
+61,108,Yardımcı oyuncu,0
+61,488,İş insanı,0
+61,98,Sosyal medya fenomeni,0
+61,498,İş insanı,0
+62,155,Polis dedektif,1
+62,460,Bahçıvan,0
+62,158,Barmen,0
+62,258,Sokak satıcısı,0
+62,420,Kahveci,0
+63,211,Gazeteci,1
+63,181,Yabancı ajan,1
+63,425,Uzay kaşifi,0
+63,278,Gazeteci,0
+63,219,Kahveci,0
+64,192,Sanatçı,1
+64,91,Kurtarıcı,1
+64,284,Eski dost,0
+64,305,Şehirli genç,0
+64,84,Taksi şoförü,0
+65,325,Polis dedektif,1
+65,146,Aşk ilgisi,1
+65,360,Sporcu,0
+65,318,Sosyal medya fenomeni,0
+65,481,Uzay kaşifi,0
+66,333,Polis dedektif,1
+66,9,Barmen,0
+66,316,Otel görevlisi,0
+66,478,Müdür,0
+66,211,Çocuk,0
+67,325,Kahramanın arkadaşı,1
+67,228,Taksi şoförü,0
+67,258,Şehirli genç,0
+67,298,Yazar,0
+67,413,Mahkeme savcısı,0
+68,398,Prens/prenses,1
+68,233,Barmen,0
+68,283,Uzay kaşifi,0
+68,196,İş insanı,0
+68,59,Sporcu,0
+69,212,Suçlu lider,1
+69,465,Başrol oyuncusu,1
+69,421,İş insanı,0
+69,331,Sporcu,0
+69,361,Asker komutan,0
+70,138,Kurtarıcı,1
+70,451,İsyancı lider,1
+70,338,Yardımcı oyuncu,0
+70,136,Yazar,0
+70,158,Kötü karakter,0
+71,14,Gazeteci,1
+71,79,Sosyal medya fenomeni,0
+71,405,Otel görevlisi,0
+71,192,Çocuk,0
+71,431,Müzisyen,0
+72,88,Sanatçı,1
+72,492,Suçlu lider,1
+72,293,Mahkeme savcısı,0
+72,221,Çocuk,0
+72,124,Sokak satıcısı,0
+73,425,Kurtarıcı,1
+73,27,Bilim insanı,1
+73,411,Sokak satıcısı,0
+73,478,Eski dost,0
+73,296,Otel görevlisi,0
+74,207,Kurtarıcı,1
+74,463,Asker komutan,0
+74,163,Uzay kaşifi,0
+74,265,Bahçıvan,0
+74,82,Sporcu,0
+75,259,Suçlu lider,1
+75,61,Sosyal medya fenomeni,0
+75,324,Müdür,0
+75,296,Sokak satıcısı,0
+75,402,Çiftçi,0
+76,486,Kurtarıcı,1
+76,166,Yardımcı oyuncu,0
+76,105,Sokak satıcısı,0
+76,48,Müdür,0
+76,14,Kütüphane görevlisi,0
+77,15,Aşk ilgisi,1
+77,317,Kütüphane görevlisi,0
+77,363,Eski dost,0
+77,279,Yardımcı oyuncu,0
+77,472,Otel görevlisi,0
+78,233,Dedektif yardımcısı,1
+78,325,Asker komutan,0
+78,324,Sokak satıcısı,0
+78,399,Asker komutan,0
+78,184,Şehirli genç,0
+79,275,Suçlu lider,1
+79,431,Müdür,0
+79,126,Çiftçi,0
+79,372,Taksi şoförü,0
+79,400,Kötü karakter,0
+80,43,Yargıç,1
+80,479,Polis dedektif,1
+80,74,Uzay kaşifi,0
+80,322,Kahveci,0
+80,12,Çocuk,0
+81,55,Dedektif yardımcısı,1
+81,73,Komik yan karakter,0
+81,145,Komik yan karakter,0
+81,135,Barmen,0
+81,459,İş insanı,0
+82,201,Kurtarıcı,1
+82,52,Komik yan karakter,0
+82,252,Barmen,0
+82,408,Sokak satıcısı,0
+82,12,Komik yan karakter,0
+83,352,Asker kahraman,1
+83,215,Sporcu,0
+83,193,Gazeteci,0
+83,456,Gazeteci,0
+83,161,Şehirli genç,0
+84,463,Doktor,1
+84,92,Kötü karakter,0
+84,338,Uzay kaşifi,0
+84,291,Müzisyen,0
+84,324,İş insanı,0
+85,315,Gazeteci,1
+85,308,Terapist,1
+85,280,Uzay kaşifi,0
+85,3,Mahkeme savcısı,0
+85,82,Çocuk,0
+86,275,Bilim insanı,1
+86,12,Mahkeme savcısı,0
+86,266,İş insanı,0
+86,263,Uzay kaşifi,0
+86,390,Mahkeme savcısı,0
+87,168,Bilim insanı,1
+87,71,Çiftçi,0
+87,113,Çiftçi,0
+87,43,Barmen,0
+87,373,Mahkeme savcısı,0
+88,179,Asker kahraman,1
+88,363,Otel görevlisi,0
+88,283,Sporcu,0
+88,334,Barmen,0
+88,151,Yazar,0
+89,473,Terapist,1
+89,99,Suçlu lider,1
+89,129,Uzay kaşifi,0
+89,89,Kütüphane görevlisi,0
+89,102,Sporcu,0
+90,85,Zengin iş insanı,1
+90,407,Kurtarıcı,1
+90,106,Kahveci,0
+90,489,Yazar,0
+90,370,Çocuk,0
+91,418,Suçlu lider,1
+91,164,Kurtarıcı,1
+91,319,Mahkeme savcısı,0
+91,56,Kütüphane görevlisi,0
+91,311,İş insanı,0
+92,460,Dedektif yardımcısı,1
+92,324,Kahramanın arkadaşı,1
+92,420,Polis memuru,0
+92,33,Çiftçi,0
+92,231,Kütüphane görevlisi,0
+93,151,Gazeteci,1
+93,310,Gizemli kahin,1
+93,424,Eski dost,0
+93,450,Yardımcı oyuncu,0
+93,331,Uzay kaşifi,0
+94,415,Gizemli kahin,1
+94,166,Asker komutan,0
+94,220,Komik yan karakter,0
+94,405,Mahkeme savcısı,0
+94,96,Taksi şoförü,0
+95,191,Başrol oyuncusu,1
+95,75,Yabancı ajan,1
+95,400,Bahçıvan,0
+95,161,Yardımcı oyuncu,0
+95,63,Bahçıvan,0
+96,110,İsyancı lider,1
+96,239,Sanatçı,1
+96,291,Komik yan karakter,0
+96,408,Eski dost,0
+96,165,Şehirli genç,0
+97,270,Doktor,1
+97,112,Sporcu,0
+97,53,Taksi şoförü,0
+97,288,Komik yan karakter,0
+97,143,Kütüphane görevlisi,0
+98,350,Yabancı ajan,1
+98,388,Prens/prenses,1
+98,223,Mahkeme savcısı,0
+98,163,Kötü karakter,0
+98,417,Sporcu,0
+99,256,Polis dedektif,1
+99,24,Asker kahraman,1
+99,141,Gazeteci,0
+99,216,Çocuk,0
+99,62,Müzisyen,0
+100,122,Yargıç,1
+100,296,Başrol oyuncusu,1
+100,11,Kahveci,0
+100,146,Şehirli genç,0
+100,10,Gizemli yabancı,0
+101,19,Kahramanın arkadaşı,1
+101,459,Yabancı ajan,1
+101,274,Sokak satıcısı,0
+101,471,Yardımcı oyuncu,0
+101,271,Komik yan karakter,0
+102,49,Katil şüphelisi,1
+102,425,Terapist,1
+102,411,Müzisyen,0
+102,213,Müdür,0
+102,371,İş insanı,0
+103,41,Doktor,1
+103,285,Kahramanın arkadaşı,1
+103,397,Eski dost,0
+103,161,Şehirli genç,0
+103,253,Bahçıvan,0
+104,253,Polis dedektif,1
+104,435,Gizemli kahin,1
+104,329,Çocuk,0
+104,496,Uzay kaşifi,0
+104,467,Yardımcı oyuncu,0
+105,25,Yabancı ajan,1
+105,423,Bahçıvan,0
+105,6,Otel görevlisi,0
+105,72,Yazar,0
+105,54,Asker komutan,0
+106,46,Gizemli kahin,1
+106,98,Sosyal medya fenomeni,0
+106,371,Sekreter,0
+106,462,Yardımcı oyuncu,0
+106,416,Bahçıvan,0
+107,133,Kahramanın arkadaşı,1
+107,453,Şehirli genç,0
+107,402,Komik yan karakter,0
+107,23,Çiftçi,0
+107,57,Müzisyen,0
+108,139,Yargıç,1
+108,358,Asker kahraman,1
+108,88,Uzay kaşifi,0
+108,474,Gizemli yabancı,0
+108,71,Müzisyen,0
+109,386,Kurtarıcı,1
+109,300,Sokak satıcısı,0
+109,455,Kahveci,0
+109,436,Taksi şoförü,0
+109,495,Uzay kaşifi,0
+110,296,Terapist,1
+110,245,Müzisyen,0
+110,339,Müdür,0
+110,251,Otel görevlisi,0
+110,500,Barmen,0
+111,48,Aşk ilgisi,1
+111,136,İş insanı,0
+111,393,Sekreter,0
+111,152,Sosyal medya fenomeni,0
+111,365,Asker komutan,0
+112,356,Kahramanın arkadaşı,1
+112,40,Mahkeme savcısı,0
+112,39,Yardımcı oyuncu,0
+112,498,Taksi şoförü,0
+112,254,Mahkeme savcısı,0
+113,420,Yabancı ajan,1
+113,198,Prens/prenses,1
+113,97,Sosyal medya fenomeni,0
+113,250,Kütüphane görevlisi,0
+113,54,Müdür,0
+114,390,Bilim insanı,1
+114,484,Gazeteci,1
+114,160,Uzay kaşifi,0
+114,363,Gizemli yabancı,0
+114,233,Asker komutan,0
+115,198,Gazeteci,1
+115,500,Prens/prenses,1
+115,232,Müdür,0
+115,445,Eski dost,0
+115,318,Mahkeme savcısı,0
+116,143,Yargıç,1
+116,217,Sokak satıcısı,0
+116,85,Uzay kaşifi,0
+116,352,Gizemli yabancı,0
+116,158,Kahveci,0
+117,382,Asker kahraman,1
+117,57,Gazeteci,0
+117,124,Çiftçi,0
+117,9,Yardımcı oyuncu,0
+117,458,Barmen,0
+118,181,Aşk ilgisi,1
+118,136,Gizemli kahin,1
+118,61,Yazar,0
+118,475,Mahkeme savcısı,0
+118,282,Gizemli yabancı,0
+119,258,Asker kahraman,1
+119,221,Terapist,1
+119,261,İş insanı,0
+119,171,Uzay kaşifi,0
+119,28,Kötü karakter,0
+120,375,Prens/prenses,1
+120,476,Suçlu lider,1
+120,217,Gazeteci,0
+120,100,Çocuk,0
+120,151,Çiftçi,0
+121,266,İsyancı lider,1
+121,222,Polis dedektif,1
+121,56,Asker komutan,0
+121,349,Uzay kaşifi,0
+121,26,Kötü karakter,0
+122,295,Polis dedektif,1
+122,137,Çiftçi,0
+122,123,Asker komutan,0
+122,34,Çocuk,0
+122,273,Bahçıvan,0
+123,201,Terapist,1
+123,202,Zengin iş insanı,1
+123,52,Mahkeme savcısı,0
+123,113,Gazeteci,0
+123,376,Sporcu,0
+124,178,Katil şüphelisi,1
+124,327,Otel görevlisi,0
+124,148,Yardımcı oyuncu,0
+124,362,Uzay kaşifi,0
+124,306,Gazeteci,0
+125,379,İsyancı lider,1
+125,157,Dedektif yardımcısı,1
+125,437,Müzisyen,0
+125,465,Taksi şoförü,0
+125,353,Komik yan karakter,0
+126,96,Başrol oyuncusu,1
+126,171,Taksi şoförü,0
+126,461,Barmen,0
+126,234,Yazar,0
+126,73,Müzisyen,0
+127,91,Dedektif yardımcısı,1
+127,499,Taksi şoförü,0
+127,136,Müdür,0
+127,452,Yardımcı oyuncu,0
+127,40,Çocuk,0
+128,497,İsyancı lider,1
+128,243,Zengin iş insanı,1
+128,299,Uzay kaşifi,0
+128,1,Kötü karakter,0
+128,251,Sosyal medya fenomeni,0
+129,291,Gazeteci,1
+129,349,Polis memuru,0
+129,149,Gazeteci,0
+129,428,Müdür,0
+129,117,Gizemli yabancı,0
+130,52,Asker kahraman,1
+130,156,Barmen,0
+130,412,Otel görevlisi,0
+130,377,İş insanı,0
+130,172,Sekreter,0
+131,340,Başrol oyuncusu,1
+131,250,Gizemli kahin,1
+131,130,Şehirli genç,0
+131,187,Bahçıvan,0
+131,235,Müzisyen,0
+132,58,Başrol oyuncusu,1
+132,139,Bilim insanı,1
+132,352,Yazar,0
+132,266,Asker komutan,0
+132,373,Taksi şoförü,0
+133,183,Kurtarıcı,1
+133,255,İş insanı,0
+133,16,Mahkeme savcısı,0
+133,126,Otel görevlisi,0
+133,296,Komik yan karakter,0
+134,472,Terapist,1
+134,489,Sokak satıcısı,0
+134,194,Taksi şoförü,0
+134,328,Sekreter,0
+134,56,Kahveci,0
+135,136,Yabancı ajan,1
+135,467,Eski dost,0
+135,348,Kütüphane görevlisi,0
+135,179,Yazar,0
+135,455,Çiftçi,0
+136,98,Yabancı ajan,1
+136,22,Doktor,1
+136,297,Uzay kaşifi,0
+136,267,Yazar,0
+136,360,Sporcu,0
+137,291,Polis dedektif,1
+137,496,Başrol oyuncusu,1
+137,406,Barmen,0
+137,178,Taksi şoförü,0
+137,148,Gizemli yabancı,0
+138,349,Doktor,1
+138,77,Sanatçı,1
+138,268,Taksi şoförü,0
+138,495,Gazeteci,0
+138,149,Şehirli genç,0
+139,148,Asker kahraman,1
+139,34,Kahramanın arkadaşı,1
+139,410,Mahkeme savcısı,0
+139,151,Şehirli genç,0
+139,8,Sosyal medya fenomeni,0
+140,28,Gizemli kahin,1
+140,251,Taksi şoförü,0
+140,157,Sosyal medya fenomeni,0
+140,3,Yardımcı oyuncu,0
+140,221,Kötü karakter,0
+141,71,Gazeteci,1
+141,180,Sanatçı,1
+141,450,Gizemli yabancı,0
+141,146,Komik yan karakter,0
+141,403,Bahçıvan,0
+142,74,Aşk ilgisi,1
+142,376,Katil şüphelisi,1
+142,101,Asker komutan,0
+142,222,Kötü karakter,0
+142,300,Barmen,0
+143,128,Kurtarıcı,1
+143,416,Suçlu lider,1
+143,348,Uzay kaşifi,0
+143,327,Çiftçi,0
+143,198,Şehirli genç,0
+144,89,Yabancı ajan,1
+144,289,Yargıç,1
+144,224,Gizemli yabancı,0
+144,348,Taksi şoförü,0
+144,449,Müdür,0
+145,129,Katil şüphelisi,1
+145,70,Şehirli genç,0
+145,214,Komik yan karakter,0
+145,284,Şehirli genç,0
+145,103,Kütüphane görevlisi,0
+146,280,Kurtarıcı,1
+146,94,Polis dedektif,1
+146,193,Gizemli yabancı,0
+146,401,Polis memuru,0
+146,449,Kahveci,0
+147,258,Asker kahraman,1
+147,479,Gizemli kahin,1
+147,351,Yazar,0
+147,365,Kahveci,0
+147,184,Yazar,0
+148,237,Kurtarıcı,1
+148,15,Aşk ilgisi,1
+148,468,Müdür,0
+148,287,Gizemli yabancı,0
+148,14,Çocuk,0
+149,403,Bilim insanı,1
+149,125,Doktor,1
+149,298,Sekreter,0
+149,263,Kütüphane görevlisi,0
+149,192,Şehirli genç,0
+150,387,Başrol oyuncusu,1
+150,433,Kahveci,0
+150,202,Sporcu,0
+150,65,Müdür,0
+150,207,Polis memuru,0
+151,430,Polis dedektif,1
+151,28,Yabancı ajan,1
+151,44,Çocuk,0
+151,29,Uzay kaşifi,0
+151,139,Sosyal medya fenomeni,0
+152,290,Kahramanın arkadaşı,1
+152,247,Polis dedektif,1
+152,354,Otel görevlisi,0
+152,170,Kütüphane görevlisi,0
+152,443,Taksi şoförü,0
+153,360,Zengin iş insanı,1
+153,105,Gizemli yabancı,0
+153,265,Asker komutan,0
+153,74,Taksi şoförü,0
+153,288,Sokak satıcısı,0
+154,155,Başrol oyuncusu,1
+154,322,Sporcu,0
+154,160,Barmen,0
+154,369,Çocuk,0
+154,480,Bahçıvan,0
+155,59,Polis dedektif,1
+155,35,Polis memuru,0
+155,1,Uzay kaşifi,0
+155,79,Asker komutan,0
+155,310,Mahkeme savcısı,0
+156,243,Suçlu lider,1
+156,13,Kötü karakter,0
+156,427,Uzay kaşifi,0
+156,259,Şehirli genç,0
+156,228,Eski dost,0
+157,95,Sanatçı,1
+157,420,Terapist,1
+157,121,Sosyal medya fenomeni,0
+157,431,Çocuk,0
+157,435,Taksi şoförü,0
+158,440,Bilim insanı,1
+158,337,Başrol oyuncusu,1
+158,316,Gazeteci,0
+158,64,Gizemli yabancı,0
+158,222,Sosyal medya fenomeni,0
+159,88,Prens/prenses,1
+159,262,Barmen,0
+159,380,Barmen,0
+159,359,Şehirli genç,0
+159,280,Şehirli genç,0
+160,492,Terapist,1
+160,302,Eski dost,0
+160,253,Eski dost,0
+160,189,Bahçıvan,0
+160,342,Sporcu,0
+161,238,Başrol oyuncusu,1
+161,214,Şehirli genç,0
+161,417,Kahveci,0
+161,218,Uzay kaşifi,0
+161,76,Kütüphane görevlisi,0
+162,6,Doktor,1
+162,298,Asker kahraman,1
+162,156,Kötü karakter,0
+162,18,İş insanı,0
+162,331,Gizemli yabancı,0
+163,452,Dedektif yardımcısı,1
+163,371,Gizemli kahin,1
+163,235,Polis memuru,0
+163,142,Polis memuru,0
+163,5,Mahkeme savcısı,0
+164,463,Aşk ilgisi,1
+164,362,Dedektif yardımcısı,1
+164,269,Sokak satıcısı,0
+164,200,Gizemli yabancı,0
+164,263,İş insanı,0
+165,236,Terapist,1
+165,367,Katil şüphelisi,1
+165,440,Eski dost,0
+165,403,Komik yan karakter,0
+165,72,Sosyal medya fenomeni,0
+166,193,Dedektif yardımcısı,1
+166,493,Yargıç,1
+166,242,Bahçıvan,0
+166,311,Polis memuru,0
+166,338,Müdür,0
+167,67,Yargıç,1
+167,358,Gizemli kahin,1
+167,166,Kütüphane görevlisi,0
+167,302,Çocuk,0
+167,490,Sosyal medya fenomeni,0
+168,35,Dedektif yardımcısı,1
+168,24,İsyancı lider,1
+168,16,Uzay kaşifi,0
+168,437,Taksi şoförü,0
+168,376,Uzay kaşifi,0
+169,479,İsyancı lider,1
+169,348,İsyancı lider,1
+169,244,Uzay kaşifi,0
+169,166,Gazeteci,0
+169,390,Otel görevlisi,0
+170,387,Kahramanın arkadaşı,1
+170,499,Doktor,1
+170,216,Çiftçi,0
+170,473,Uzay kaşifi,0
+170,33,Kötü karakter,0
+171,227,Başrol oyuncusu,1
+171,391,Gazeteci,0
+171,192,Müzisyen,0
+171,311,Uzay kaşifi,0
+171,324,Bahçıvan,0
+172,194,Prens/prenses,1
+172,69,Prens/prenses,1
+172,327,Çiftçi,0
+172,294,Barmen,0
+172,285,Kahveci,0
+173,116,Gazeteci,1
+173,104,Prens/prenses,1
+173,380,Komik yan karakter,0
+173,83,Kütüphane görevlisi,0
+173,223,Yardımcı oyuncu,0
+174,105,Başrol oyuncusu,1
+174,18,İş insanı,0
+174,415,Müdür,0
+174,72,Yazar,0
+174,458,Kütüphane görevlisi,0
+175,175,Gazeteci,1
+175,95,Barmen,0
+175,350,Mahkeme savcısı,0
+175,374,Sosyal medya fenomeni,0
+175,491,Mahkeme savcısı,0
+176,257,Sanatçı,1
+176,181,Bilim insanı,1
+176,183,Sporcu,0
+176,317,Komik yan karakter,0
+176,461,Kahveci,0
+177,321,Aşk ilgisi,1
+177,193,Bilim insanı,1
+177,448,Sporcu,0
+177,37,Polis memuru,0
+177,292,Şehirli genç,0
+178,61,Sanatçı,1
+178,256,Müzisyen,0
+178,119,Yardımcı oyuncu,0
+178,27,Asker komutan,0
+178,308,Sosyal medya fenomeni,0
+179,473,Gizemli kahin,1
+179,425,Aşk ilgisi,1
+179,129,Gazeteci,0
+179,200,Şehirli genç,0
+179,361,Komik yan karakter,0
+180,437,Katil şüphelisi,1
+180,266,Eski dost,0
+180,478,Çocuk,0
+180,313,Kötü karakter,0
+180,257,Sekreter,0
+181,299,Başrol oyuncusu,1
+181,242,Kötü karakter,0
+181,480,Müzisyen,0
+181,470,Yazar,0
+181,135,Çiftçi,0
+182,172,Prens/prenses,1
+182,455,Sekreter,0
+182,392,Sosyal medya fenomeni,0
+182,31,Otel görevlisi,0
+182,72,Müzisyen,0
+183,121,Yargıç,1
+183,253,Çocuk,0
+183,38,Bahçıvan,0
+183,413,Sosyal medya fenomeni,0
+183,486,Müdür,0
+184,178,Doktor,1
+184,37,Komik yan karakter,0
+184,487,Sekreter,0
+184,214,Barmen,0
+184,307,Gizemli yabancı,0
+185,371,Gazeteci,1
+185,22,İsyancı lider,1
+185,54,Sokak satıcısı,0
+185,19,İş insanı,0
+185,255,Yazar,0
+186,156,İsyancı lider,1
+186,401,Başrol oyuncusu,1
+186,436,Kötü karakter,0
+186,449,Yardımcı oyuncu,0
+186,498,Müdür,0
+187,274,Başrol oyuncusu,1
+187,312,Sekreter,0
+187,441,Barmen,0
+187,195,Kötü karakter,0
+187,350,Eski dost,0
+188,357,Sanatçı,1
+188,65,Bilim insanı,1
+188,221,Uzay kaşifi,0
+188,360,Kahveci,0
+188,219,Uzay kaşifi,0
+189,181,Kahramanın arkadaşı,1
+189,100,İsyancı lider,1
+189,176,Asker komutan,0
+189,224,Komik yan karakter,0
+189,471,Kütüphane görevlisi,0
+190,117,Sanatçı,1
+190,212,Kütüphane görevlisi,0
+190,383,Kötü karakter,0
+190,386,Sporcu,0
+190,455,Yardımcı oyuncu,0
+191,417,Dedektif yardımcısı,1
+191,30,Şehirli genç,0
+191,40,Kötü karakter,0
+191,65,Müzisyen,0
+191,225,İş insanı,0
+192,150,Polis dedektif,1
+192,67,Taksi şoförü,0
+192,311,Komik yan karakter,0
+192,204,Komik yan karakter,0
+192,246,Çiftçi,0
+193,254,İsyancı lider,1
+193,362,Kahveci,0
+193,377,Bahçıvan,0
+193,417,Şehirli genç,0
+193,183,İş insanı,0
+194,445,Terapist,1
+194,335,Yabancı ajan,1
+194,126,Bahçıvan,0
+194,270,Sekreter,0
+194,458,Polis memuru,0
+195,28,Doktor,1
+195,178,Barmen,0
+195,462,Çiftçi,0
+195,211,Komik yan karakter,0
+195,362,Mahkeme savcısı,0
+196,431,Sanatçı,1
+196,500,Mahkeme savcısı,0
+196,267,Uzay kaşifi,0
+196,119,İş insanı,0
+196,157,Otel görevlisi,0
+197,19,Asker kahraman,1
+197,121,Uzay kaşifi,0
+197,358,Yardımcı oyuncu,0
+197,226,Barmen,0
+197,333,Sosyal medya fenomeni,0
+198,139,Aşk ilgisi,1
+198,143,Kötü karakter,0
+198,302,Çiftçi,0
+198,197,Çocuk,0
+198,154,Eski dost,0
+199,10,Kahramanın arkadaşı,1
+199,442,İsyancı lider,1
+199,196,Mahkeme savcısı,0
+199,197,Eski dost,0
+199,228,Gazeteci,0
+200,273,Sanatçı,1
+200,27,Gizemli kahin,1
+200,339,Yardımcı oyuncu,0
+200,157,Çocuk,0
+200,17,Müdür,0
+201,473,Yargıç,1
+201,425,Prens/prenses,1
+201,465,Müdür,0
+201,135,Yardımcı oyuncu,0
+201,415,Müzisyen,0
+202,444,Kahramanın arkadaşı,1
+202,219,Polis dedektif,1
+202,401,Sekreter,0
+202,374,Eski dost,0
+202,476,Otel görevlisi,0
+203,440,Yargıç,1
+203,481,Yargıç,1
+203,274,Müdür,0
+203,238,Polis memuru,0
+203,218,Çiftçi,0
+204,492,İsyancı lider,1
+204,196,Gizemli yabancı,0
+204,240,Yardımcı oyuncu,0
+204,382,Çiftçi,0
+204,474,Sporcu,0
+205,44,Yabancı ajan,1
+205,128,Yargıç,1
+205,395,Eski dost,0
+205,278,Kötü karakter,0
+205,152,Çocuk,0
+206,186,Doktor,1
+206,138,Başrol oyuncusu,1
+206,338,Uzay kaşifi,0
+206,129,Şehirli genç,0
+206,401,Kütüphane görevlisi,0
+207,429,Asker kahraman,1
+207,136,Başrol oyuncusu,1
+207,434,Kahveci,0
+207,92,Yardımcı oyuncu,0
+207,228,Kahveci,0
+208,495,Sanatçı,1
+208,184,Mahkeme savcısı,0
+208,246,Yazar,0
+208,327,Kötü karakter,0
+208,433,Kütüphane görevlisi,0
+209,142,Aşk ilgisi,1
+209,460,Kahveci,0
+209,313,Gazeteci,0
+209,283,Çiftçi,0
+209,161,Müdür,0
+210,133,Dedektif yardımcısı,1
+210,445,Bilim insanı,1
+210,254,Çocuk,0
+210,66,Sokak satıcısı,0
+210,117,Kötü karakter,0
+211,59,Gazeteci,1
+211,336,Kahveci,0
+211,20,Kütüphane görevlisi,0
+211,95,Müzisyen,0
+211,351,Kötü karakter,0
+212,32,Terapist,1
+212,488,Yardımcı oyuncu,0
+212,366,Taksi şoförü,0
+212,133,İş insanı,0
+212,500,Sekreter,0
+213,308,Gazeteci,1
+213,121,Kahveci,0
+213,180,Uzay kaşifi,0
+213,56,Polis memuru,0
+213,40,Komik yan karakter,0
+214,105,Kurtarıcı,1
+214,167,Komik yan karakter,0
+214,293,Sokak satıcısı,0
+214,191,Yazar,0
+214,425,Şehirli genç,0
+215,13,Yabancı ajan,1
+215,168,Yazar,0
+215,311,Sokak satıcısı,0
+215,404,İş insanı,0
+215,185,Barmen,0
+216,319,Katil şüphelisi,1
+216,16,Bilim insanı,1
+216,83,Kütüphane görevlisi,0
+216,189,Yardımcı oyuncu,0
+216,23,Uzay kaşifi,0
+217,414,Gazeteci,1
+217,161,Sporcu,0
+217,262,Kütüphane görevlisi,0
+217,367,Bahçıvan,0
+217,400,İş insanı,0
+218,194,Bilim insanı,1
+218,426,Eski dost,0
+218,299,Müdür,0
+218,17,Sokak satıcısı,0
+218,337,Komik yan karakter,0
+219,491,Yargıç,1
+219,479,Sokak satıcısı,0
+219,115,Sekreter,0
+219,290,Otel görevlisi,0
+219,258,Yazar,0
+220,434,Doktor,1
+220,450,Barmen,0
+220,271,Taksi şoförü,0
+220,409,Polis memuru,0
+220,27,Polis memuru,0
+221,163,Katil şüphelisi,1
+221,138,İsyancı lider,1
+221,100,Müzisyen,0
+221,429,Asker komutan,0
+221,295,Sporcu,0
+222,119,Polis dedektif,1
+222,234,İsyancı lider,1
+222,162,Kahveci,0
+222,384,Otel görevlisi,0
+222,498,Yazar,0
+223,41,Gizemli kahin,1
+223,181,Zengin iş insanı,1
+223,287,Çocuk,0
+223,259,Asker komutan,0
+223,40,Kahveci,0
+224,118,Sanatçı,1
+224,292,İsyancı lider,1
+224,424,Müdür,0
+224,65,Yazar,0
+224,474,Taksi şoförü,0
+225,311,Yabancı ajan,1
+225,134,Uzay kaşifi,0
+225,408,Komik yan karakter,0
+225,147,Yazar,0
+225,175,Yazar,0
+226,295,Prens/prenses,1
+226,254,Gazeteci,0
+226,324,Kahveci,0
+226,452,Yardımcı oyuncu,0
+226,396,Gazeteci,0
+227,215,Zengin iş insanı,1
+227,135,Otel görevlisi,0
+227,392,Uzay kaşifi,0
+227,284,Gizemli yabancı,0
+227,365,Kötü karakter,0
+228,13,Gazeteci,1
+228,354,Gazeteci,1
+228,86,Eski dost,0
+228,38,Yazar,0
+228,68,İş insanı,0
+229,206,Katil şüphelisi,1
+229,357,Uzay kaşifi,0
+229,286,Müzisyen,0
+229,124,Sosyal medya fenomeni,0
+229,365,Müzisyen,0
+230,370,Gizemli kahin,1
+230,24,Kahveci,0
+230,38,Yazar,0
+230,379,Sokak satıcısı,0
+230,472,Kahveci,0
+231,149,Dedektif yardımcısı,1
+231,388,Yargıç,1
+231,245,Sosyal medya fenomeni,0
+231,359,Polis memuru,0
+231,69,Komik yan karakter,0
+232,459,Asker kahraman,1
+232,4,Eski dost,0
+232,304,Müzisyen,0
+232,190,Kahveci,0
+232,346,Gazeteci,0
+233,484,Zengin iş insanı,1
+233,396,Yabancı ajan,1
+233,50,Kötü karakter,0
+233,119,Kütüphane görevlisi,0
+233,153,Polis memuru,0
+234,147,Dedektif yardımcısı,1
+234,166,Bilim insanı,1
+234,197,Kötü karakter,0
+234,164,Sosyal medya fenomeni,0
+234,388,Otel görevlisi,0
+235,221,Doktor,1
+235,266,Müzisyen,0
+235,143,Uzay kaşifi,0
+235,295,İş insanı,0
+235,451,Şehirli genç,0
+236,61,İsyancı lider,1
+236,148,Gazeteci,0
+236,141,Şehirli genç,0
+236,250,Çiftçi,0
+236,225,Çocuk,0
+237,474,Polis dedektif,1
+237,119,Mahkeme savcısı,0
+237,342,Sekreter,0
+237,143,Sosyal medya fenomeni,0
+237,73,Polis memuru,0
+238,15,Sanatçı,1
+238,307,Sekreter,0
+238,463,Sporcu,0
+238,21,Mahkeme savcısı,0
+238,492,Yardımcı oyuncu,0
+239,427,Katil şüphelisi,1
+239,422,Yargıç,1
+239,14,Yazar,0
+239,190,Otel görevlisi,0
+239,105,Kahveci,0
+240,426,Polis dedektif,1
+240,233,Kahveci,0
+240,152,Yazar,0
+240,471,Barmen,0
+240,57,Çiftçi,0
+241,443,Polis dedektif,1
+241,71,İş insanı,0
+241,143,Sporcu,0
+241,375,Komik yan karakter,0
+241,343,Otel görevlisi,0
+242,373,Yabancı ajan,1
+242,39,Çiftçi,0
+242,168,Kahveci,0
+242,81,Sokak satıcısı,0
+242,260,Otel görevlisi,0
+243,362,Kahramanın arkadaşı,1
+243,353,Yazar,0
+243,162,Uzay kaşifi,0
+243,457,Bahçıvan,0
+243,474,Sporcu,0
+244,98,Kahramanın arkadaşı,1
+244,431,Başrol oyuncusu,1
+244,286,Asker komutan,0
+244,339,Gizemli yabancı,0
+244,429,Kütüphane görevlisi,0
+245,447,Terapist,1
+245,483,Zengin iş insanı,1
+245,113,Gizemli yabancı,0
+245,345,Barmen,0
+245,101,Sosyal medya fenomeni,0
+246,376,Aşk ilgisi,1
+246,255,Polis memuru,0
+246,145,Otel görevlisi,0
+246,68,Otel görevlisi,0
+246,102,Mahkeme savcısı,0
+247,223,Prens/prenses,1
+247,35,Bahçıvan,0
+247,252,Gazeteci,0
+247,286,Kötü karakter,0
+247,313,Yazar,0
+248,315,Gizemli kahin,1
+248,195,Zengin iş insanı,1
+248,324,Polis memuru,0
+248,299,Taksi şoförü,0
+248,121,Gazeteci,0
+249,431,Zengin iş insanı,1
+249,119,Zengin iş insanı,1
+249,449,Sporcu,0
+249,150,Sokak satıcısı,0
+249,343,Eski dost,0
+250,279,Polis dedektif,1
+250,247,Katil şüphelisi,1
+250,152,Yazar,0
+250,50,Kahveci,0
+250,113,Müzisyen,0
+251,340,Yabancı ajan,1
+251,218,Taksi şoförü,0
+251,60,Uzay kaşifi,0
+251,91,İş insanı,0
+251,238,Bahçıvan,0
+252,361,Zengin iş insanı,1
+252,66,Doktor,1
+252,397,Yazar,0
+252,452,Taksi şoförü,0
+252,248,Asker komutan,0
+253,149,Kurtarıcı,1
+253,138,Kötü karakter,0
+253,260,Sekreter,0
+253,111,Müdür,0
+253,456,Müzisyen,0
+254,346,Asker kahraman,1
+254,163,Kurtarıcı,1
+254,211,Eski dost,0
+254,201,Çiftçi,0
+254,415,Kötü karakter,0
+255,249,Kahramanın arkadaşı,1
+255,373,Katil şüphelisi,1
+255,113,Kahveci,0
+255,174,Yazar,0
+255,326,Asker komutan,0
+256,275,Doktor,1
+256,106,Çocuk,0
+256,400,Müzisyen,0
+256,321,Gizemli yabancı,0
+256,57,Çocuk,0
+257,487,Aşk ilgisi,1
+257,370,Müdür,0
+257,11,Bahçıvan,0
+257,411,Müzisyen,0
+257,195,İş insanı,0
+258,336,Sanatçı,1
+258,26,Mahkeme savcısı,0
+258,266,Gazeteci,0
+258,108,Sosyal medya fenomeni,0
+258,186,Sekreter,0
+259,441,Dedektif yardımcısı,1
+259,368,Gizemli kahin,1
+259,118,Müzisyen,0
+259,149,Yazar,0
+259,411,Mahkeme savcısı,0
+260,482,Gazeteci,1
+260,7,Uzay kaşifi,0
+260,19,Polis memuru,0
+260,433,Eski dost,0
+260,11,Sporcu,0
+261,22,İsyancı lider,1
+261,81,İsyancı lider,1
+261,145,Kötü karakter,0
+261,155,Çiftçi,0
+261,13,Otel görevlisi,0
+262,417,Bilim insanı,1
+262,402,Sosyal medya fenomeni,0
+262,194,Otel görevlisi,0
+262,336,Çiftçi,0
+262,206,Komik yan karakter,0
+263,38,Kurtarıcı,1
+263,259,Yardımcı oyuncu,0
+263,370,Yardımcı oyuncu,0
+263,361,Otel görevlisi,0
+263,391,Sosyal medya fenomeni,0
+264,49,Prens/prenses,1
+264,377,Sosyal medya fenomeni,0
+264,302,Çocuk,0
+264,406,Şehirli genç,0
+264,201,Sporcu,0
+265,218,Terapist,1
+265,263,Asker kahraman,1
+265,381,Mahkeme savcısı,0
+265,12,Uzay kaşifi,0
+265,155,Çiftçi,0
+266,193,Kurtarıcı,1
+266,150,Sanatçı,1
+266,220,Çiftçi,0
+266,48,Barmen,0
+266,114,Şehirli genç,0
+267,196,Gizemli kahin,1
+267,9,Müdür,0
+267,255,Sekreter,0
+267,373,Bahçıvan,0
+267,202,Uzay kaşifi,0
+268,115,İsyancı lider,1
+268,296,Asker kahraman,1
+268,500,İş insanı,0
+268,13,Barmen,0
+268,204,Kütüphane görevlisi,0
+269,330,Aşk ilgisi,1
+269,160,Uzay kaşifi,0
+269,171,Sekreter,0
+269,74,Gazeteci,0
+269,415,Mahkeme savcısı,0
+270,304,Doktor,1
+270,128,Zengin iş insanı,1
+270,43,Polis memuru,0
+270,73,Otel görevlisi,0
+270,207,Sosyal medya fenomeni,0
+271,31,Katil şüphelisi,1
+271,393,Otel görevlisi,0
+271,253,Müzisyen,0
+271,130,Sosyal medya fenomeni,0
+271,211,Gizemli yabancı,0
+272,165,Başrol oyuncusu,1
+272,353,Çiftçi,0
+272,290,Bahçıvan,0
+272,307,Mahkeme savcısı,0
+272,209,Müdür,0
+273,280,İsyancı lider,1
+273,256,Yabancı ajan,1
+273,161,Kahveci,0
+273,492,Bahçıvan,0
+273,334,Barmen,0
+274,472,Suçlu lider,1
+274,54,Gizemli yabancı,0
+274,218,Müdür,0
+274,359,Yardımcı oyuncu,0
+274,40,Gazeteci,0
+275,86,Polis dedektif,1
+275,102,Kötü karakter,0
+275,225,Yazar,0
+275,446,Barmen,0
+275,498,Gazeteci,0
+276,72,Suçlu lider,1
+276,384,Başrol oyuncusu,1
+276,448,Şehirli genç,0
+276,281,Uzay kaşifi,0
+276,215,Yazar,0
+277,369,Gazeteci,1
+277,473,Yabancı ajan,1
+277,451,Çocuk,0
+277,347,İş insanı,0
+277,139,Kütüphane görevlisi,0
+278,73,Doktor,1
+278,149,Bahçıvan,0
+278,268,İş insanı,0
+278,351,Polis memuru,0
+278,105,Çocuk,0
+279,242,Bilim insanı,1
+279,237,Dedektif yardımcısı,1
+279,108,Polis memuru,0
+279,480,Bahçıvan,0
+279,170,Sosyal medya fenomeni,0
+280,6,Zengin iş insanı,1
+280,163,Aşk ilgisi,1
+280,214,Yardımcı oyuncu,0
+280,92,Şehirli genç,0
+280,77,Bahçıvan,0
+281,103,Yabancı ajan,1
+281,356,Uzay kaşifi,0
+281,49,Kötü karakter,0
+281,276,Çocuk,0
+281,235,Kahveci,0
+282,35,İsyancı lider,1
+282,180,İş insanı,0
+282,326,Sokak satıcısı,0
+282,287,Yardımcı oyuncu,0
+282,453,Mahkeme savcısı,0
+283,146,Yargıç,1
+283,421,Katil şüphelisi,1
+283,467,İş insanı,0
+283,445,Çocuk,0
+283,219,Müdür,0
+284,479,Prens/prenses,1
+284,131,Aşk ilgisi,1
+284,288,Kütüphane görevlisi,0
+284,278,Gizemli yabancı,0
+284,329,Uzay kaşifi,0
+285,144,Bilim insanı,1
+285,92,Sporcu,0
+285,135,Polis memuru,0
+285,289,Kütüphane görevlisi,0
+285,53,Sokak satıcısı,0
+286,170,Doktor,1
+286,295,Terapist,1
+286,396,Sporcu,0
+286,437,Otel görevlisi,0
+286,304,Çocuk,0
+287,108,Prens/prenses,1
+287,87,Aşk ilgisi,1
+287,2,Sporcu,0
+287,402,Çocuk,0
+287,119,Gizemli yabancı,0
+288,85,Aşk ilgisi,1
+288,244,Kötü karakter,0
+288,448,Gizemli yabancı,0
+288,1,Polis memuru,0
+288,166,Sporcu,0
+289,218,Gazeteci,1
+289,341,Polis dedektif,1
+289,242,Asker komutan,0
+289,168,Sekreter,0
+289,155,Eski dost,0
+290,397,Katil şüphelisi,1
+290,198,Gazeteci,1
+290,362,Müzisyen,0
+290,243,Polis memuru,0
+290,182,Komik yan karakter,0
+291,490,Terapist,1
+291,86,Bahçıvan,0
+291,485,Gizemli yabancı,0
+291,325,Sosyal medya fenomeni,0
+291,427,Yazar,0
+292,251,Polis dedektif,1
+292,356,Sanatçı,1
+292,404,Yazar,0
+292,129,Sokak satıcısı,0
+292,351,İş insanı,0
+293,13,Gizemli kahin,1
+293,444,Otel görevlisi,0
+293,188,Yazar,0
+293,438,Mahkeme savcısı,0
+293,239,Çocuk,0
+294,196,Başrol oyuncusu,1
+294,192,Mahkeme savcısı,0
+294,92,Kahveci,0
+294,478,İş insanı,0
+294,383,Polis memuru,0
+295,3,Gizemli kahin,1
+295,301,Çiftçi,0
+295,159,Polis memuru,0
+295,169,Yardımcı oyuncu,0
+295,49,Çocuk,0
+296,18,Suçlu lider,1
+296,332,Kahramanın arkadaşı,1
+296,141,Bahçıvan,0
+296,329,Bahçıvan,0
+296,246,Çiftçi,0
+297,321,Başrol oyuncusu,1
+297,30,Zengin iş insanı,1
+297,498,Çocuk,0
+297,293,Sokak satıcısı,0
+297,422,Kahveci,0
+298,89,Sanatçı,1
+298,243,Polis dedektif,1
+298,384,Kötü karakter,0
+298,448,İş insanı,0
+298,332,Yardımcı oyuncu,0
+299,362,Bilim insanı,1
+299,377,Komik yan karakter,0
+299,91,Yazar,0
+299,446,Sosyal medya fenomeni,0
+299,436,Uzay kaşifi,0
+300,228,Polis dedektif,1
+300,327,Sekreter,0
+300,364,Çiftçi,0
+300,32,Mahkeme savcısı,0
+300,161,Sokak satıcısı,0

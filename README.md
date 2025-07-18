@@ -12,6 +12,15 @@ Bu proje, sinema sektörünü temel alan bir SQL veritabanı oluşturarak bu yap
 - Python ile veri üretimi yaparak veri üretimi-saklama-analiz zincirinin tüm aşamalarını kapsayan bir örnek ortaya koymak
 
 ---
+## Film Veritabanı Şeması
+
+
+<img width="1528" height="1091" alt="Film Veritabanı Şeması" src="https://github.com/user-attachments/assets/9702b4a7-3d09-4030-9b88-65f3cec69e2d" />
+
+
+
+
+---
 
 ## 📁 Klasör Açıklamaları
 

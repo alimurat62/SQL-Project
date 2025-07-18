@@ -15,6 +15,18 @@ Bu proje, sinema sektörünü temel alan bir SQL veritabanı oluşturarak bu yap
 
 ## 📁 Klasör Açıklamaları
 
+### 🐍 `Python_data_code.ipynb`
+
+Bu Jupyter Notebook dosyası, SQL veritabanı için yapay ve gerçekçi veri setleri üretmek amacıyla hazırlanmıştır. Python kullanılarak:
+
+- Oyuncular, yönetmenler, filmler, kullanıcılar ve puanlama verileri oluşturulmuştur.  
+- Veriler ilişkisel bütünlüğe uygun şekilde tasarlanmış ve normalizasyon kurallarına dikkat edilmiştir.  
+- Üretilen veriler CSV dosyalarına dönüştürülerek SQL veritabanına insert işlemleri için hazır hale getirilmiştir.  
+- Veri üretiminde rastgelelik ve gerçekçi senaryolar göz önünde bulundurulmuştur.
+
+Bu dosya, projenin temel veri kaynağını oluşturarak, SQL sorgularının anlamlı ve gerçekçi veriler üzerinde test edilmesini sağlar.
+
+
 ### 📂 `data/` – Yapay Veri Setleri
 
 Bu klasör, Python kullanılarak oluşturulmuş, sinema sektörünü modelleyen yapay ancak gerçek dünyaya uygun verileri içerir. Veriler, ilişkisel veritabanı tasarım ilkelerine ve normalizasyon kurallarına uygun olarak üretilmiştir. Her bir `.csv` dosyası, SQL veritabanındaki bir tabloya karşılık gelir.
@@ -88,7 +100,6 @@ Bu klasör, SQL analiz sorguları sonucunda elde edilen CSV dosyalarını içeri
 22. **22. Yaş Gruplarına Göre Kullanıcı Dağılımı (Dinamik Yaş Hesabı ile).csv**  
 23. **23. Her Yıl Çekilen Film Sayısı.csv**  
 24. **24. Kullanıcıların En Çok Puanladığı Tür.csv**
-
 
 ---
 
